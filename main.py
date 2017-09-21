@@ -1,2 +1,3 @@
 #this is python file
-print("Hello world")
+print("Hello")
+print("World")
